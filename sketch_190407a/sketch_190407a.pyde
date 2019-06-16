@@ -15,7 +15,7 @@ def draw():
     global i
     global nazwa
     global ext
-    image(i, width/2.height/2, width, height)
+    image(i, width/2,height/2, width, height)
     endRecord()
     #save(nazwa+".edited"+ext)
     #exit()
